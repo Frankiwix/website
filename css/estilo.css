@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+body{
+	background-color:azure;
+	
+}
+
+header{
+	margin: 0;
+	color:#07533A;
+	background-image:url("file:///C:/Sitio2/imagenes/fondosi.jpg");
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center}
+
+h1{
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size:60px;}
+.p1{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-style:normal;}
+h2{
+	color:darkcyan;}
+
+footer{
+ text-align:center;
+ background-image:url("file:///C:/Sitio2/imagenes/fondosi.jpg");
+ color: black;
+ font-size: 20px;
+}
